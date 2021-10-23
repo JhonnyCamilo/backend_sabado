@@ -17,7 +17,7 @@ import javax.persistence.Id;
 
 /**
  *
- * @author USUARIO
+ * @author Tutoria del Sabado
  */
 @Entity
 @Table(name = "category")
